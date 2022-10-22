@@ -29,7 +29,9 @@
 14e. false: true(1)!=2;
 14f. true: true === Boolean(2)(true);
 15. '==' do the operation after conversion of data type, '===' do the operation without conversion of data type;
+16. see code
 17. [2,4,6]: create a new empty array, and in the for loop, for every elements in array, do something(which is multiply 2), and put it to the new array, so we get the answer
+18. see code
 19. 1
 4
 3
