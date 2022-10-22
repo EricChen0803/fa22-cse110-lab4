@@ -9,12 +9,12 @@
 9. Error, i is type 'let' so it cannot be access outside the for loop;
 10. 3, length is the length of the prices list, which is 3;
 11. [50,100,150], the function goes through each element in prices and calculate then push the result back to discounted and return;
-12a. student.name;
+12. 12a. student.name;
 12b. student['Grad Year'];
 12c. student.greeting();
 12d. student['Favorite Teacher'].name;
 12e. student.courseLoad[0];
-13a. 32: '3'+'2' = 32;
+13. 13a. 32: '3'+'2' = 32;
 13b. 1: 3 - 2 = 1;
 13c. 3: 3+null(0) = 3;
 13d. 3null: '3'+'null' = 3null;
@@ -22,7 +22,7 @@
 13f. 0: false(0) + null(0) = 0;
 13g. 3undefined: '3' + 'undefined' = 3undefined;
 13h. NaN: '3' - undefined(NaN) = NaN;
-14a. true: '2'(2)>1;
+14. 14a. true: '2'(2)>1;
 14b. false: '2'>'1' and it also >'12';
 14c. true: 2 = '2'(2);
 14d. false: 2(int)!='2'(string);
